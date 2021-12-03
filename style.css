@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background-color: dodgerblue;
+}
+#img1{
+    width:280px;
+    height:200px;
+    border-radius: 100px;
+}
+#sec1{
+    background: linear-gradient(#adf056 0%,#22c7a0 100%);
+}
+.line{
+background-color: crimson;
+    width: 1000px;
+    height: 10px;
+    margin: auto;
+}
